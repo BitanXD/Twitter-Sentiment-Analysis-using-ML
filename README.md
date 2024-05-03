@@ -1,4 +1,5 @@
 TWITTER SENTIMENT ANALYSIS
+
 This project explores the sentiment expressed in tweets on various topics. It aims to analyze and understand the public opinion conveyed through Twitter data.
 
 Key functionalities:
